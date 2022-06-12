@@ -1,0 +1,23 @@
+{
+	"name"             :"zelang/intelligent-speakers",
+	"description"      :"intelligent speakers",
+	"minimum-stability":"dev",
+	"license"          :"MIT",
+	"authors"          :[
+		{
+			"name" :"zelang",
+			"email":"8766520@gmail.com"
+		}
+	],
+	"autoload"         :{
+		"psr-4":{
+			"zelang\\IntelligentSpeakers\\":"src/"
+		}
+	},
+	"require"          :{
+		"php"        :">=7.1",
+		"ext-openssl":"*",
+		"ext-json"   :"*",
+		"ext-dom"    :"*"
+	}
+}
