@@ -7,5 +7,5 @@
 ## 安装
 
 ``` sh
-$ composer require zelang/intelligent-speaker -vvv
+$ composer require zelang/intelligent-speakers -vvv
 ```
